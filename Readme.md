@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate Computer Science student also worked as an assistant engineer in Samsung display</h3>
 
-- 🌱 I’m currently learning **BTECH COMPUTER SCIENCE ENGINEERING**
+- 🌱 I’m currently pursuing **BTECH IN COMPUTER SCIENCE ENGINEERING**
 
 - 💬 Ask me about **C++,DSA, C, HTML/CSS, JAVASCRIPT AND PYTHON,ENGINEERING**
 
