@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate Computer Science student also worked as an assistant engineer in Samsung display</h3>
 
-- 🌱 I’m currently pursuing **BTECH IN COMPUTER SCIENCE ENGINEERING**
+- 🌱 I’m currently learning **BTECH COMPUTER SCIENCE ENGINEERING**
+
+- 👨‍💻 My-personal_portfolio [https://shubhamkumar3011.netlify.app/](https://shubhamkumar3011.netlify.app/)
 
 - 💬 Ask me about **C++,DSA, C, HTML/CSS, JAVASCRIPT AND PYTHON,ENGINEERING**
 
@@ -24,4 +26,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamkr3011&show_icons=true&locale=en&layout=compact" alt="shubhamkr3011" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkr3011&" alt="shubhamkr3011" /></p>
-
